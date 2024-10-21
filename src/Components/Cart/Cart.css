@@ -1,0 +1,9 @@
+.CartImg {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 5px;
+}
+.CartImg img{
+    width: 60px;
+}
